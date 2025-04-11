@@ -1,5 +1,6 @@
 
 // 7. Crie uma função chamada multiplicar que receba dois números como argumentos e retorne o resultado da multiplicação.
+// resposta:
 
 function multiplicar(a, b) {
     return a * b;
