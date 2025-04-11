@@ -1,6 +1,6 @@
 
 // 2. Qual a diferença entre declarar uma função e chamá-la? Dê um exemplo de cada.
-
+// resposta:
 // declarar uma função:
 // É criar a função, ou seja, definir o que ela faz, mas sem executá-la ainda.
 // ex1
