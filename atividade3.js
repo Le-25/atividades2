@@ -10,5 +10,5 @@ function mostrarNome(nome) {
 // se quisesse retornar poderia usar
 
 const mensagem = mostrarNome("Leticia");
-console.log(mensagem);
+
 
